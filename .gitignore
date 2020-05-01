@@ -1,3 +1,6 @@
+# wav files for testing
+*.wav
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
